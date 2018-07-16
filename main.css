@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    margin: 1em;
+}
+
+img {
+    object-fit: contain;
+
+}
+
+.container-img {
+    width: 100%;
+    background-color: black;
+}
+
+.main-img {
+    margin: auto;
+    display: block;
+    padding: 1em;
+    
+}
+.give-padding {
+    padding: .5em;
+    background-color: black;
+}
+.media-img {
+    width: 40%;
+    height: 250px;
+}
+/* .resize {
+    width: 300px;
+} */
